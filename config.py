@@ -13,8 +13,8 @@ DB_CONFIG = {
     "host": "localhost",
     "port": 5432,
     "user": "postgres",
-    "password": "00000",  # Replace with your actual password
-    "database": "movie_mania"
+    "password": "password",  # Replace with your actual password
+    "database": "movie_mania" # Replace with your actual db name
 }
 
 # Load movie and actor lists
